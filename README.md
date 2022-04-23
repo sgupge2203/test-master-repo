@@ -1,5 +1,3 @@
-## This is the commit for the master branch.
-
 ## This is the commit for the main branch.
 
 ## This is the commitment as a wrong user. 
