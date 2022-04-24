@@ -4,3 +4,5 @@
 (I am saku-1101 but now I am trying to commit as Sakura Adachi.)
 
 ## This is an amendment of Sakura Adachi. saku-1101, please pull this.
+
+## Another commit pointed dev/SA.
