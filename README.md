@@ -6,3 +6,5 @@
 ## This is an amendment of Sakura Adachi. saku-1101, please pull this.
 
 ## Another commit pointed dev/SA.
+
+### Recover from detached HEAD.
